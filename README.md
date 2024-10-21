@@ -1,6 +1,9 @@
 ![Anime Aesthetic GIF - Anime Aesthetic Sky - Discover   Share GIFs](https://media.giphy.com/media/4TmLKfeYOuO2c/giphy.gif?cid=790b76114ix075gjjslxtt6gqweu0hfympvss7sfnm4gtgdg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm DvHuy</h1>
 <h3 align="center">Turning Ideas into Reality with Code</h3>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=500&lines=A+student+dedicated+to+growth;Progressing+1 percent+each+day;Success+is+built+on+discipline" alt="Typing SVG" /></a>
+</h3>
 
 - 🔭 I’m currently working on **Duy Tan University, Danang**
 

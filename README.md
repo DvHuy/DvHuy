@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJs, NodeJs, Tailwindcss, C#, MSSQL Sever**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJs, NodeJs, Tailwindcss, C#, MS SQL Sever**
 
 - 📫 How to reach me **viethuy03.tech@gmail.com**
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.facebook.com/profile.php?id=100026909355642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Việt Huy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
